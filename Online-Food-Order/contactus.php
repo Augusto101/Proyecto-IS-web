@@ -126,7 +126,7 @@ else {
     <div class="heading">
      <strong>Quieres contactar a <span class="edit"> Sabores de mi Tierra </span>?</strong>
      <br>
-    Aquí hay algunas maneras de ponerse en contacto con nosotros.
+    ¿quieres enviarnos un mensaje? aqui puedes hacerlo
     </div>
 
     <div class="col-xs-12 line"><hr></div>
